@@ -27,3 +27,7 @@ img{
     margin-right: auto;
     width: 50%:
  }
+
+ img{
+    filter: hue-rotate(35deg)
+   }
