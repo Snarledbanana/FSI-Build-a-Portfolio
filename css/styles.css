@@ -29,9 +29,9 @@ img{
  }
 
  img{
-    filter: hue-rotate(35deg)
+    filter: hue-rotate(35deg);
    }
 
    img{
-    filter: sepia(14%)
+    filter: sepia(14%);
    }
