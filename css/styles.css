@@ -31,3 +31,7 @@ img{
  img{
     filter: hue-rotate(35deg)
    }
+
+   img{
+    filter: sepia(14%)
+   }
